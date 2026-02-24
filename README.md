@@ -25,9 +25,5 @@ Ranked Table of Models with TOPSIS Score
 - To visualize ranking results using graphical representation
 
 # 4. Results
-Input Decision Matrix:
-<img width="876" height="562" alt="image" src="YOUR_INPUT_MATRIX_IMAGE_LINK_HERE" />
-Output Ranking Result:
-<img width="598" height="251" alt="image" src="YOUR_OUTPUT_RESULT_IMAGE_LINK_HERE" />
-Best Model:
-<img width="598" height="251" alt="image" src="YOUR_BEST_MODEL_IMAGE_LINK_HERE" />
+<img width="876" height="562" alt="image" src="results.png" />
+<img width="598" height="251" alt="image" src="graph.png" />
